@@ -1,6 +1,6 @@
 h1 {
   color: red; 
-  font-size: 7vw; 
+  font-size: 6vw; 
   text-align: center;
   font-family: Georgia, Times;
   text-shadow: 2px 2px #110202;
@@ -13,9 +13,6 @@ h2 {
   text-shadow: 1px 1px 2vw black, 0 0 1vw white, 0 0 0.2vw black;
   color: red;
   font-size: auto Georgia, serif;
-}
-.red-text {
-    color: red;
   }
  #box-container {
     display: flex;
