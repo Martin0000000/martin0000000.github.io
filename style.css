@@ -12,7 +12,7 @@ h1 {
 }
 .container {
   display: flex;
-    font-size: 3vw;
+    font-size: 2.5vw;
   text-align: justified;
 }
   .thin-gray-border {
@@ -22,6 +22,7 @@ h1 {
   }
 img {
   margin: 6px;
+
 }
 .center {
   display: block;
@@ -36,6 +37,7 @@ img {
   font-size: 3vw;
   font-family:Georgia, serif;
   }
+
  #box-container {
     display: flex;
     flex-wrap: wrap;
